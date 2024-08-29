@@ -17,7 +17,12 @@ This is a simple Android app demonstrating the usage of Snackbars with Jetpack C
 
 ## Screenshots
 
-
+<p>
+  <img src="https://github.com/user-attachments/assets/e472b1c2-6633-46d1-928f-1d59f4865e43" alt="First Screenshot" style="width: 200px; height: auto; margin-right: 10px;">
+  <img src="https://github.com/user-attachments/assets/7fefd5c8-29fe-4e6e-8d42-35d928a9de17" alt="Second Screenshot" style="width: 200px; height: auto; margin-right: 10px;">
+  <img src="https://github.com/user-attachments/assets/56046ee3-5036-4a6d-8012-1090834eec54" alt="Third Screenshot" style="width: 200px; height: auto; margin-right: 10px;">
+  <img src="https://github.com/user-attachments/assets/4e3f3680-a22a-4499-8b05-ccffd7b284ef" alt="Fourth Screenshot" style="width: 200px; height: auto;">
+</p>
 
 ## Getting Started
 
